@@ -1,0 +1,27 @@
+.card {  
+    background-color:beige;
+    box-shadow: 5px 10px 20px goldenrod inset;
+  }
+  
+
+  .cardImage{
+    height:450px;
+    width:300px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    border:5px double lightsalmon;
+    justify-content: center;
+    
+    
+    
+  }
+
+  .container{
+    font-family: cursive;
+  }
+ 
+  .image{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+  }
